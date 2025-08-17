@@ -36,15 +36,12 @@ Clone this repository:
 
 <li>Open the desired week’s folder.</li>
 
-<li>Compile and run the program:
-
-javac ProgramName.java <br>
-java ProgramName</li>
+<li>Compile and run the program
 
 🎯 Purpose
 
 This repository is mainly for:
-<ls>
+<ul>
 
 <li>Submitting and tracking weekly Java lab assignments
 
