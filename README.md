@@ -5,13 +5,13 @@ Each folder corresponds to a specific week’s lab work.
 
 📂 Repository Structure
 
-**WEEK_3** – Programs from Week 3 lab assignments
+**WEEK_3** – Basics problems
 
-**WEEK_4** – Programs from Week 4 lab assignments
+**WEEK_4** – Problems Based on if statement/Looping (basic)
 
-**WEEK_5** – Programs from Week 5 lab assignments
+**WEEK_5** – Problems Based on Array and Looping 
 
-**WEEK_6** – Programs from Week 6 lab assignments
+**WEEK_6** – Programs based on If statement/Looping/Array (higer level)
 
 More weeks will be added as the course progresses.
 
@@ -30,7 +30,7 @@ Arrays and Strings
 🚀 **How to Run**
 
 Clone this repository:
-<ls>
+<ol>
 <li>git clone https://github.com/maariyafaizan/Java-Programs.git</li>
 
 <li>Open the desired week’s folder.</li>
