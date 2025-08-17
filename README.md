@@ -18,12 +18,13 @@ More weeks will be added as the course progresses.
 🛠️ Topics Covered
 
 The assignments cover fundamental concepts in Java programming, including:
+<ls>
 
-Variables, Data Types, and Operators
+<li>Variables, Data Types, and Operators
 
-Control Structures (if, switch, loops)
+<li>Control Structures (if, switch, loops)
 
-Arrays and Strings
+<li>Arrays and Strings
 
 (and more, depending on upcoming labs)
 
@@ -37,17 +38,18 @@ Clone this repository:
 
 <li>Compile and run the program:
 
-javac ProgramName.java
+javac ProgramName.java <br>
 java ProgramName</li>
 
 🎯 Purpose
 
 This repository is mainly for:
+<ls>
 
-Submitting and tracking weekly Java lab assignments
+<li>Submitting and tracking weekly Java lab assignments
 
-Practicing Java programming concepts
+<li>Practicing Java programming concepts
 
-Serving as a reference for future coursework
+<li>Serving as a reference for future coursework
 
 📌 Note: These programs are written as part of my BSc Computer Science coursework. They may be tailored to specific lab requirements.
