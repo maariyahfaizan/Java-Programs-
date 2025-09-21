@@ -36,7 +36,7 @@ Clone this repository:
 
 <li>Open the desired week’s folder.</li>
 
-<li>Compile and run the program </li> </ol>
+<li>Open source code, compile and run the program </li> </ol>
 
 🎯 Purpose
 
