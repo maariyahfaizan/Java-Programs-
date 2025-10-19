@@ -13,9 +13,9 @@ Each folder corresponds to a specific week’s lab work.
 
 **WEEK_6** – Programs based on If statement/Looping/Array (higer level)
 
-**WEEK_7** – Programs based on methods and recursion
+**WEEK_7** – Programs based on Methods and Recursion
 
-**WEEK_8** – Programs based on basics of object oriented programing (such as getters, setters and constructors)
+**WEEK_8** – Programs based on basics of Object Oriented Programing (such as classes, getters, setters and constructors)
 
 **WEEK_9** – Problems Based on Inheritance and Polymorphism 
 
