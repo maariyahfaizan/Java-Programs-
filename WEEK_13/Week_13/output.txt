@@ -1,0 +1,2 @@
+Lab week 13 This is an example of writing into a file using Java.
+File handling in Java is simple using FileWriter class.
