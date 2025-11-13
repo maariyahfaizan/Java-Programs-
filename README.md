@@ -7,9 +7,9 @@ Each folder corresponds to a specific week’s lab work.
 
 **WEEK_3** – Basics problems
 
-**WEEK_4** – Problems Based on if statement/Looping (basic)
+**WEEK_4** – Problems based on if statement/Looping (basic)
 
-**WEEK_5** – Problems Based on Array and Looping 
+**WEEK_5** – Problems based on Array and Looping 
 
 **WEEK_6** – Programs based on If statement/Looping/Array (higer level)
 
@@ -17,13 +17,15 @@ Each folder corresponds to a specific week’s lab work.
 
 **WEEK_8** – Programs based on basics of Object Oriented Programing (such as classes, getters, setters and constructors)
 
-**WEEK_9** – Problems Based on Inheritance and Polymorphism 
+**WEEK_9** – Problems based on Inheritance and Polymorphism 
 
-**WEEK_10** – Problems Based on Nested Class and Polymorphism 
+**WEEK_10** – Problems based on Nested Class and Polymorphism 
 
-**WEEK_11** – Problems Based on Interface
+**WEEK_11** – Problems based on Interface
 
-More weeks will be added as the course progresses.
+**WEEK_12** – Problems based on Exception Handling
+
+**WEEK_13** – Problems based on File Handling
 
 🛠️ Topics Covered
 
