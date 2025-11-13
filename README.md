@@ -27,19 +27,6 @@ Each folder corresponds to a specific week’s lab work.
 
 **WEEK_13** – Problems based on File Handling
 
-🛠️ Topics Covered
-
-The assignments cover fundamental concepts in Java programming, including:
-<ls>
-
-<li>Variables, Data Types, and Operators
-
-<li>Control Structures (if, switch, loops)
-
-<li>Arrays and Strings
-
-(and more, depending on upcoming labs)
-
 🚀 **How to Run**
 
 Clone this repository:
